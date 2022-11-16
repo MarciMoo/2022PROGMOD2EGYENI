@@ -1,0 +1,9 @@
+model\human.class
+model\patient_enum.class
+model\xmlreader.class
+com\group\progmodbeadandoegyeni2022\JakartaRestConfiguration.class
+model\xmlsaver.class
+controller\controller.class
+model\patient.class
+com\group\progmodbeadandoegyeni2022\resources\JakartaEE9Resource.class
+view\view.class
