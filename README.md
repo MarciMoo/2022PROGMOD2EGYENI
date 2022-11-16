@@ -13,4 +13,4 @@ Ide érkezik minden GET és POST kérés. A listázás és a keresés kérések 
 
 A kód a zip fájlban van az eredeti formájában, mert NetBeans nem engedett belépni a GitHubba, ezért Intellij-vel kellett feltöltenem, ami lehetséges hogy adatvesztést okozhatott.
 
-Wildfly a deployt nem engedte arrayindexoutofbound exception miatt, pedig szintaktikailag helyesnek kéne lennie a kódnak.
+Wildfly a deployt nem engedte arrayindexoutofbound exception miatt(napokig kutatás az interneten és rengeteg változtatás sem segített), pedig szintaktikailag helyesnek kéne lennie a kódnak.
