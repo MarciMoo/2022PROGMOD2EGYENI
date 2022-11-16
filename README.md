@@ -11,4 +11,6 @@ A controller rétegben egy java fájl található amiben minden függvény meg v
 VIEW: 
 Ide érkezik minden GET és POST kérés. A listázás és a keresés kérések json-ként adják vissza az értékeket, a többi egy igaz, vagy hamis booleannel térnek vissza ami a sikerességet jelzi. HTML oldala nincs az api-nak.
 
+A kód a zip fájlban van az eredeti formájában, mert NetBeans nem engedett belépni a GitHubba, ezért Intellij-vel kellett feltöltenem, ami lehetséges hogy adatvesztést okozhatott.
+
 Wildfly a deployt nem engedte arrayindexoutofbound exception miatt, pedig szintaktikailag helyesnek kéne lennie a kódnak.
